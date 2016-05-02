@@ -16,6 +16,7 @@
 		D635D6F71CD5EA8A00551F46 /* testTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D635D6F61CD5EA8A00551F46 /* testTests.m */; };
 		D635D7021CD5EA8A00551F46 /* testUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D635D7011CD5EA8A00551F46 /* testUITests.m */; };
 		D653C5C31CD5FA8A0009D3E7 /* CustomVCOne.m in Sources */ = {isa = PBXBuildFile; fileRef = D653C5C21CD5FA8A0009D3E7 /* CustomVCOne.m */; };
+		D653C5CC1CD7A1150009D3E7 /* SecondVC.m in Sources */ = {isa = PBXBuildFile; fileRef = D653C5CB1CD7A1150009D3E7 /* SecondVC.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		D635D7031CD5EA8A00551F46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D653C5C11CD5FA8A0009D3E7 /* CustomVCOne.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomVCOne.h; sourceTree = "<group>"; };
 		D653C5C21CD5FA8A0009D3E7 /* CustomVCOne.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomVCOne.m; sourceTree = "<group>"; };
+		D653C5CA1CD7A1150009D3E7 /* SecondVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondVC.h; sourceTree = "<group>"; };
+		D653C5CB1CD7A1150009D3E7 /* SecondVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondVC.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				D635D6E31CD5EA8900551F46 /* ViewController.m */,
 				D653C5C11CD5FA8A0009D3E7 /* CustomVCOne.h */,
 				D653C5C21CD5FA8A0009D3E7 /* CustomVCOne.m */,
+				D653C5CA1CD7A1150009D3E7 /* SecondVC.h */,
+				D653C5CB1CD7A1150009D3E7 /* SecondVC.m */,
 				D635D6E51CD5EA8900551F46 /* Main.storyboard */,
 				D635D6E81CD5EA8900551F46 /* Assets.xcassets */,
 				D635D6EA1CD5EA8900551F46 /* LaunchScreen.storyboard */,
@@ -278,6 +283,7 @@
 				D635D6E41CD5EA8900551F46 /* ViewController.m in Sources */,
 				D635D6E11CD5EA8900551F46 /* AppDelegate.m in Sources */,
 				D653C5C31CD5FA8A0009D3E7 /* CustomVCOne.m in Sources */,
+				D653C5CC1CD7A1150009D3E7 /* SecondVC.m in Sources */,
 				D635D6DE1CD5EA8900551F46 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
